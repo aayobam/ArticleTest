@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJ5M/iZMjyA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aolowu.SIDD2-D54-W11\\Desktop\\ArticleTest\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aolowu.SIDD2-D54-W11\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\aolowu.SIDD2-D54-W11\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\aolowu.SIDD2-D54-W11\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\aolowu.SIDD2-D54-W11\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\aolowu.SIDD2-D54-W11\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
