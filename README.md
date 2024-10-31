@@ -1,4 +1,11 @@
 # ArticleTest
+# How to run the project
+- Add your database connection string in the appsettings.json
+- I'm auto seeding articles to the database once you run migrations.
+- use the get all endpoint to get all the articles.
+- Call the like-article endpoint to like an article using the article id.
+- call the get-article endpoint to get the article details which contains the total like.
+
 # Bonus Challenge: Resilience, Scalability, and Performance
 
 # Resilience Against Abuse/Exploitation:
